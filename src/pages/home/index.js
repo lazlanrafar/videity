@@ -6,6 +6,7 @@ import {
   HomeTrending,
   StreamingPartners,
 } from "../../components";
+import HomeSimulcasts from "../../components/organims/home-simulcasts";
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
         <StreamingPartners />
         <HomeTrending />
         <HomeDevices />
+        <HomeSimulcasts />
       </main>
 
       <br />

@@ -23,3 +23,4 @@ export {
 };
 
 export * from "./brands";
+export * from "./simulcasts";
